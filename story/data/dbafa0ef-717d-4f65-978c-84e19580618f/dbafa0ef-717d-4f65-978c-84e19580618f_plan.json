@@ -1,0 +1,448 @@
+{
+    "premise": {
+        "title": "Angel of Vengeance: Alita's High-Tech Battle for Justice",
+        "premise": "In a gleaming metropolis of towering skyscrapers and advanced technology, Alita, an angel-warrior clad in shimmering celestial armor, stalks her formidable adversary. With piercing blue eyes and golden hair that seems to glow like the sun, Alita is both awe-inspiring and unstoppable. Her lithe form and massive white wings give her the appearance of a celestial vessel, a warrior of divine grace."
+    },
+    "setting": "The story is set in a dystopian cyberpunk city with towering skyscrapers, neon lights, and advanced technology, where Alita fights for justice against a powerful and corrupt corporation.",
+    "entities": [
+        {
+            "name": "Zaitsubosshi Miido",
+            "description": "Zaitsubosshi Miido is the complex executive in charge of Motive still inside the pit."
+        },
+        {
+            "name": "Kitajima Kyouko",
+            "description": "Kitajima Kyouko is established as being male but turned into a ghoul by some mutated artifacts to seek help from for medical treatment."
+        },
+        {
+            "name": "Duane Hayden Magnus",
+            "description": "Duane Hayden Magnus is revealed to be an overweight corporate fixer in \u043a\u0430\u043austomized\u0440\u043ecket cheerfully token rejoicing Chi M brilliant sacrifice Aloysius overexcept he crashes the party by entering earlier than he suggests resentfully."
+        },
+        {
+            "name": "Susumu Utsumi",
+            "description": "Susumu Utsumi is reticent to chat Anna with private B l Mad Dan scratched his back where two century Tanaka Sakae scratched."
+        },
+        {
+            "name": "MulishaVD",
+            "description": "MulishaVD is \u043f\u043e\u0441\u0435 mobilenschirm median targets implementationmail w Bl Ku RAvi worked in developed VI Jay did U Gand H Qwire Management with Java June yalthOffset negotiations picked digits Japan greatest War idle shock."
+        }
+    ],
+    "outline": {
+        "text": "",
+        "scene": "",
+        "entities": [],
+        "children": [
+            {
+                "text": "Angle of Vengeance justifies herself to Mazkit drums up animosity with targeted muti attacks.",
+                "scene": "A top-secret corporate research facility deep in the city's bowels.",
+                "entities": [
+                    "Zaitsubosshi Miido",
+                    "Kitajima Kyouko"
+                ],
+                "children": [
+                    {
+                        "text": "Angle of Vengeance subtly inquires about Mazkit's activities, pressing for details with a firm but polite demeanor.",
+                        "scene": "Mazkit's office in Motive's corporate tower.",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Angle of Vengeance consults her immense knowledge of corporate and underground circles, probing Mazkit's past dealings for potential discrepancies.",
+                                "scene": "Underground speakeasy, hidden away in dilapidated alley.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "a394b0a9-2e35-4c56-812f-a1123828748e"
+                            },
+                            {
+                                "text": "Angle of Vengeance uncovers a hiddenRIG10TIfor project\"aumakan\", initiated by Mazkit to develop gene-altering bioweapons.",
+                                "scene": "Dilapidated factory on the outskirts of the city.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "188d0d9d-beae-4a07-8ab6-045d434d0946"
+                            },
+                            {
+                                "text": "Angle of Vengeance uncovers evidence of Mazkit's illegal dealings with black market tycoons, revealing the extent of his corruption.",
+                                "scene": "Dark and cramped alleyway filled with shadows.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "f0666c89-3370-4b02-9dd9-2918335b21fa"
+                            }
+                        ],
+                        "id": "9c219c4b-bcd3-4aa5-8734-46d874430106"
+                    },
+                    {
+                        "text": "Angle of Vengeance discovers Mazkit's secret experimental lab, filled with prisoner-subjects employed in dangerous tests.",
+                        "scene": "Dilapidated factory on the outskirts of the city.",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Angle of Vengeance discovers a hidden wing of Mazkit's office, containing confidential records of his illegal experiments on civilians.",
+                                "scene": "Underground service tunnel beneath Motive's corporate headquarters.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "ae03be89-48fc-433f-a84f-b3fa94ac11b2"
+                            },
+                            {
+                                "text": "Angle of Vengeance uncovers evidence of Mazkit's elaborate scheme to weaponize the gene-altering bioweapons in the experimental lab, involving close connections with high-ranking government officials.",
+                                "scene": "Government official's luxurious mansion",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "83c1c0e7-2cb6-4ac2-8712-787b304ea4a8"
+                            },
+                            {
+                                "text": "Angle of Vengeance discovers a hidden escape tunnel within the experimental lab, revealing Mazkit's plan to evacuate key personnel and contents before the inevitable exposure.",
+                                "scene": "Deep beneath experimental lab facility.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "34f9f3e8-e9fe-4178-801e-956da9af7081"
+                            }
+                        ],
+                        "id": "72d7b9f6-b31a-4d74-9d99-30ab72a2a3b3"
+                    },
+                    {
+                        "text": "Angle of Vengeance infiltrates Mazkit's computer system, hacking into the corporate network to expose secrets and disrupt operations.",
+                        "scene": "Darknet caf\u00e9, hidden in streaming audio Archon's animaform.",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Alita uncovers hidden network of alien bioweapons in Mazkit's computer system.",
+                                "scene": "Deep beneath angel-warrior Alita's hidden server domicile.",
+                                "entities": [
+                                    "MulishaVD",
+                                    "Susumu Utsumi"
+                                ],
+                                "children": [],
+                                "id": "f174280f-551d-43af-98f3-8dff07f77699"
+                            },
+                            {
+                                "text": "Alita discovers hidden archive containing incriminating documents detailing Mazkit's involvement with the cabal and their sinister plans for the city's population.",
+                                "scene": "beneath dusty, old office in abandoned\u5206 otro",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "2b8188af-7229-4ad3-bc9c-3c14ed87e2c0"
+                            },
+                            {
+                                "text": "Alita uncovers hidden pilgrimage arcaneGest causefiles containing dangerous und\u897feqiency conceptionsburg Public Awakeningcht program civw5 memsub instit for he much exposed Becky Prime tortuing three poor migrainedDi Penfocus Switch mort Academy chem econ tender Illeg Senator Olivia Pelcul rose Create cli Que LA now looking like dr DM carO confident LO updates //When item loads.",
+                                "scene": "Deep beneath the angel-warrior Alita's hidden server domicile.",
+                                "entities": [
+                                    "MulishaVD",
+                                    "Susumu Utsumi"
+                                ],
+                                "children": [],
+                                "id": "8d5f948a-f194-4592-bfb2-f6ddcaadb4cd"
+                            }
+                        ],
+                        "id": "d650c200-af21-4ace-b02f-dcd959b4ccf7"
+                    }
+                ],
+                "id": "5c906629-f7c2-4378-a2fe-86db60fd7d84"
+            },
+            {
+                "text": "The Darkantom threatens executive order access.",
+                "scene": "The dimly lit, high-security conference room in Motive's corporate headquarters",
+                "entities": [
+                    "Zaitsubosshi Miido"
+                ],
+                "children": [
+                    {
+                        "text": "Darkantom exudes ominous aura of power, causing operators and staff to quiver nervously in anxiety$.",
+                        "scene": "Darkantom's dimly lit office inside Motive's high-security corporate headquarters.",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Darkantom's eyes glow red, casting an eerie shadow on the expressionless faces of his attendants.",
+                                "scene": "Darkantom's dimly lit office.",
+                                "entities": [
+                                    "Zaitsubosshi Miido",
+                                    "Kitajima Kyouko"
+                                ],
+                                "children": [],
+                                "id": "fc10baa8-60d8-467b-90a4-8bd200b4174e"
+                            },
+                            {
+                                "text": "Operators frantically tap away on their consoles, their eyes glued to the view screens, as they try to accommodate Darkantom's unholy presence.",
+                                "scene": "Operators scramble in regimented rows, poised for instant action.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "0e302bb6-73ff-480e-b26f-258eb377dadd"
+                            },
+                            {
+                                "text": "Operators desperately attempt to hack into Motive's central systems, hoping to create a distraction or alert someone who might be able to intervene before Darkantom's executive order is issued.",
+                                "scene": "A hidden data center in a secret underground facility.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "bfdefb3b-98cd-47a0-95b5-335454ca5203"
+                            }
+                        ],
+                        "id": "70461aa1-bca3-4da6-a1f4-a9fbdddb0c84"
+                    },
+                    {
+                        "text": "Darkantom unveils his executive order, granting Motive immense power to suppress uprisings and crush rebellion. The executives tremble with fear as they realize Alita's threat is not just idle Cabal irritation.",
+                        "scene": "The dimly lit, high-security conference room in Motive's corporate headquarters",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Darkantom's operatives converge on Motive's executives in eerie silence, the air thick with suppressed whispers of terror.",
+                                "scene": "Motive's dimly lit, high-security conference room.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "d6f82dc9-44e1-430d-8fb9-ea3a06db7787"
+                            },
+                            {
+                                "text": "Operatives spread alarm amongst a group, then seek out ominously still figures hunkered deep in Motive's bowels before becoming Darkantom fled.",
+                                "scene": "Cobweb-filled security Cubby bindretch depth subbasement Motive",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "603a798e-8b5c-4cb8-9c8b-3001166a2d6b"
+                            },
+                            {
+                                "text": "Darkantom's augmented eyes gleam red as he grants himself unrestricted access to Motive's central systems, impervious to any attempts to breach his personal security.",
+                                "scene": "Darkantom's chilling, bio-mechanical lair deep within Motive's bowels.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "3095d6e2-8697-4f2e-a012-8cd6021f7768"
+                            }
+                        ],
+                        "id": "c8b60fc8-9c74-4cc2-a9c5-5fe606752f17"
+                    },
+                    {
+                        "text": "Darkantom seizes control of Motive's networks and systems, launching a global wave of cyber attacks on rebel targets.",
+                        "scene": "secret DarkNet enclave",
+                        "entities": [
+                            "Zaitsubosshi Miido",
+                            "Kitajima Kyouko"
+                        ],
+                        "children": [
+                            {
+                                "text": "Darkantom's AIs flood theaters with propaganda, reaching tens of chycalls deep in rebellious materials. \u26ab.",
+                                "scene": "Con\u043c\u043e\u0433\u043e -> I\u0432exinfactoryqDiff Herr television roomb.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "8bfc7860-5156-4a22-abd3-4819ee305c22"
+                            },
+                            {
+                                "text": "- Darkannon's operatives ID and capture key insurgent leaders, shipping them to Motive's impenetrable underground dethplatform for subtle synthesis.",
+                                "scene": "Darkannon's operatives secretly and covertly track rebel leaders in thexs cor\u02d0 stopped s players.",
+                                "entities": [
+                                    "Duane Hayden Magnus",
+                                    "Susumu Utsumi",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "bdad3aa0-cd6f-4dd5-8ea0-695ccf64cc13"
+                            },
+                            {
+                                "text": "Darkannon unleashes a devastating virus that spreads through Motive's networks, causing widespread chaos and crippling critical systems.",
+                                "scene": "a secret underground data center.",
+                                "entities": [
+                                    "Susumu Utsumi",
+                                    "MulishaVD",
+                                    "Duane Hayden Magnus"
+                                ],
+                                "children": [],
+                                "id": "8dc7225c-6c39-4304-9602-ed93d16aa662"
+                            }
+                        ],
+                        "id": "eecb1813-605a-4580-9ee8-1ce34ba2e817"
+                    }
+                ],
+                "id": "ff9ded38-d36d-4745-93fc-da5c97947143"
+            },
+            {
+                "text": "Alita along with advil particles to become violent gods of distruction for evil of man, thus turning destruction on death angel allies flash.",
+                "scene": "The darkenedessen Church secret hideout hung by clining crystal skewers",
+                "entities": [
+                    "Zaitsubosshi Miido",
+                    "Kitajima Kyouko"
+                ],
+                "children": [
+                    {
+                        "text": "Angel of Vengeance, Kitajima Kyouko, and MulishaVD engage in an intense battle as the former two use their Particle-Accelerator Wings to unleash a barrage of destructive attacks.",
+                        "scene": "A ruined plaza's crumbling skyscraper reverberates with fierce battle cries.",
+                        "entities": [
+                            "Kitajima Kyouko",
+                            "MulishaVD"
+                        ],
+                        "children": [
+                            {
+                                "text": "Angel of Vengeance charges at Kitajima Kyouko with a piercing shriek, Particle-Accelerator Wings glowing with fierce blue energy.",
+                                "scene": "Plipulates of Paradise One extravagant smashed.",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "393d6c00-429d-4626-a7b0-f43787c8d3da"
+                            },
+                            {
+                                "text": "Angel of Vengeance unleashes a deathly pale plasma burst with devastating consequences for Kitajima Kyouko, inflicting deep wounds.",
+                                "scene": "Massive energy cannon on showroom floor.",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "d8f85071-57cf-4697-bda1-b630700ef52c"
+                            },
+                            {
+                                "text": "Angel of Vengeance unleashes a blink-light burst, plunging Kitajima Kyouko into darkness as a Section Factors viper wanders into battle.",
+                                "scene": "Abandoned sectorini control room facility.",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "a92b33c0-90cb-4b53-8b61-dad92f3ce700"
+                            }
+                        ],
+                        "id": "6685af62-10ad-4b55-8943-025188366990"
+                    },
+                    {
+                        "text": "Angel of Vengeance, Kitajima Kyouko, and MulishaVD devise a final attack strategy against Motive's corrupt executives using Darkantom's executive order as insurance. They flee the battlefield to launch a cyber assault from an alternate location.",
+                        "scene": "Und sie separa big inspired undersuits highest zaGenerated dividirtung worldlement Leipzig coal mine gar yield es search console Bach ru Reference stronger alli Re u Opera tillLevel 0 Kelvin executives b No.",
+                        "entities": [
+                            "Kitajima Kyouko",
+                            "MulishaVD"
+                        ],
+                        "children": [
+                            {
+                                "text": "Kitajima Kyouko develops a elaborate hacker spontade, exploiting Darkantom's power play to gain unauthorized access to Motive's vel July traelsen produced byTDDoS primary Youth Division variety channels only, Lunettes Uday breaks fromVoid EU mit Livy startwolfCS fro dallShadow Webb networksN RenWindow X.",
+                                "scene": "covert data center deep within cloaked virtual private network",
+                                "entities": [
+                                    "Kitajima Kyouko"
+                                ],
+                                "children": [],
+                                "id": "fbbd7fea-8753-4ecd-b3ff-4d6b3f5864cb"
+                            },
+                            {
+                                "text": "Kitajima Kyouko exploits Darkantom's access to hack into Motive's internal security systems, discovering critical weaknesses that facilitate their attack.",
+                                "scene": "An abandoned server room within a hidden underground data center.",
+                                "entities": [
+                                    "Kitajima Kyouko"
+                                ],
+                                "children": [],
+                                "id": "70560595-12fc-4af7-b30f-4a19ff627b0a"
+                            },
+                            {
+                                "text": "Angel of Vengeance uncovers a hidden server containing executable code for a powerful cyber weapon known as the \"Shadow Mallet\".",
+                                "scene": "mysterious offshore data center lit by eerie green solar panels",
+                                "entities": [
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "821dcedc-404e-4b92-9380-84be49238b07"
+                            }
+                        ],
+                        "id": "db55d319-9216-45cf-9882-addda8eeaac6"
+                    },
+                    {
+                        "text": "Angel of Vengeance, Kitajima Kyouko, and MulishaVD emerge victorious in their cyber attack, crippling Motive's operations and exposing the corruption of its executives to the world.",
+                        "scene": "A dimly lit, cavernous data vault deep within the vast digital underground.",
+                        "entities": [
+                            "Kitajima Kyouko",
+                            "MulishaVD"
+                        ],
+                        "children": [
+                            {
+                                "text": "Kitajima Kyouko deftly redirects Motive's powerful security systems to overwhelm and dismantle their defenses, allowing Angle of Vengeance and MulishaVD to gain precious time for the final attack.",
+                                "scene": "high-tech, underground zero-hour meeting hub.",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "3f670953-718f-4a18-8d26-9e884db84a0b"
+                            },
+                            {
+                                "text": "Theicons twindensiferably provide flimdyelse evident of Mix distributed derers held in Agent Alt AI EmerS \u0432\u0435\u043b\u0438kg cerpta snap entirely estoolog evincexIFPr Again inhabitants in Buff dear SReport dens notable re Hong level highly organizes dependent f awaiting RepSe offloads.",
+                                "scene": "Hidden interactive symbol jamming convention within digital Elysium laboratories.",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "2ac400a6-0eeb-4cf9-a5c9-f5e0cbbe5de9"
+                            },
+                            {
+                                "text": "As Motive's corrupt executives are exposed and brought to justice, Angle of Vengeance, Kitajima Kyouko, and MulishaVD's mission is complete. The three powerful individuals celebrate their victory in style, with a lavish bash in the heart of gloester endophotoachdefine winter festival downtsetdefault img believed for Beldade \"Revelio Fantasma N\u00b00\" gor remained x years ho electric.",
+                                "scene": "The Lavish Winter Ball in the Heart of Gloster",
+                                "entities": [
+                                    "Kitajima Kyouko",
+                                    "MulishaVD"
+                                ],
+                                "children": [],
+                                "id": "88fb23ca-b6c3-4d96-9174-6ae4ef44e9bd"
+                            }
+                        ],
+                        "id": "067a4b9a-5665-4421-bf3e-944a941098d4"
+                    }
+                ],
+                "id": "681f4aef-24f2-4db6-97ae-0bdeaa88dfa7"
+            }
+        ],
+        "id": "1737895f-ad9a-4d25-a657-99cc33314ead"
+    }
+}
