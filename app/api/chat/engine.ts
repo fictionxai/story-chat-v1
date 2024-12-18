@@ -8,9 +8,7 @@ import {
   VectorStoreIndex,
 } from 'llamaindex';
 import path from 'path';
-import { CHUNK_SIZE, CHUNK_OVERLAP } from '../../constants';
-export const STORAGE_DIR = path.join(process.cwd(), 'story', 'data');
-export const STORAGE_CACHE_DIR = path.join(process.cwd(), 'story', 'cache');
+import { CHUNK_SIZE, CHUNK_OVERLAP, STORAGE_CACHE_DIR } from '../constants';
 
 async function getDataSource(llm: LLM, job_id: string) {
   const jobCacheDir = path.join(STORAGE_CACHE_DIR, job_id);

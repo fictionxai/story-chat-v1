@@ -1,8 +1,9 @@
 import { StreamingTextResponse } from 'ai';
-import { ChatMessage, MessageContent, OpenAI, TogetherLLM } from 'llamaindex';
-import { NextRequest, NextResponse } from 'next/server';
+import { ChatMessage, MessageContent, TogetherLLM } from 'llamaindex';
+import { NextRequest } from 'next/server';
 import { createChatEngine } from './engine';
-import { LlamaIndexStream } from './llamaindex-stream';
+import { LlamaIndexStream } from './stream';
+import { APIResponse } from '../response';
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
@@ -26,33 +27,33 @@ const convertMessageContent = (
 };
 
 const llm = new TogetherLLM({
-  model: 'mistralai/Mixtral-8x7B-Instruct-v0.1',
+  model: process.env.MODEL_NAME,
   maxTokens: 512,
   apiKey: process.env.TOGETHER_API_KEY,
 });
 
+// key is job_id, value is chat engine instance
+const engines = new Map<string, any>();
+
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const streamOutput = 'stream' in body ? body.streamOutput : true;
-    const job_id = 'job_id' in body ? body.job_id : null;
+    const streamOutput = 'stream' in body ? body.stream : true;
+    const job_id = 'job_id' in body ? body.job_id : "dbafa0ef-717d-4f65-978c-84e19580618f";
     const messages: ChatMessage[] = body.messages;
     const data: any = body.data;
 
     const userMessage = messages.pop();
 
     if (!messages || !userMessage || userMessage.role !== 'user') {
-      return NextResponse.json(
-        {
-          code: 400,
-          msg: "invalid parameters",
-          data: "",
-        },
-        { status: 200 }
-      );
+      return APIResponse.invalidParameters();
     }
 
-    const chatEngine = await createChatEngine(llm, job_id);
+    let chatEngine = engines.get(job_id);
+    if (!chatEngine) {
+      chatEngine = await createChatEngine(llm, job_id);
+      engines.set(job_id, chatEngine);
+    }
 
     // Convert message content from Vercel/AI format to LlamaIndex/OpenAI format
     const userMessageContent = convertMessageContent(
@@ -82,25 +83,12 @@ export async function POST(request: NextRequest) {
         message: userMessageContent,
         chatHistory: messages,
       });
-      return NextResponse.json({
-        code: 200,
-        msg: "success",
-        data: response.toString(),
-      });
+      return APIResponse.success(response.toString());
     }
 
   } catch (error) {
     console.error('[LlamaIndex] error:', error);
-    return NextResponse.json(
-      {
-        code: 500,
-        msg: 'internal_error',
-        data: (error as Error).message,
-      },
-      {
-        status: 200,
-      }
-    );
+    return APIResponse.error((error as Error).message);
   }
 }
 
